@@ -1,0 +1,20 @@
+.header {
+  background: var(--grey--400);
+  display: flex;
+  height: 60px;
+  padding: 4rem 1rem;
+  align-items: center;
+  border-radius: 0 0 0.5rem 0.5rem;
+}
+
+.header img {
+  height: 5rem;
+  border-radius: 50%;
+}
+
+.header strong {
+  margin-left: 1rem;
+  font-size: 1.25rem;
+  color: var(--blue--400);
+  font-family: "Montserrat", sans-serif;
+}
